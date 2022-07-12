@@ -8,13 +8,3 @@
 	url = https://github.com/fishr-core-team/fsa
 	shallow = true
 	registered = true
-[submodule "FSAdata"]
-	path = FSAdata
-	url = https://github.com/fishr-core-team/fsadata
-	shallow = true
-	registered = true
-[submodule "RFishBC"]
-	path = RFishBC
-	url = https://github.com/fishr-core-team/rfishbc
-	shallow = true
-	registered = true
