@@ -2,5 +2,13 @@
   {
     "package": "FSA",
     "oncran": true
+  },
+  {
+    "package": "FSAdata",
+    "oncran": true
+  },
+  {
+    "package": "RFishBC",
+    "oncran": true
   }
 ]
