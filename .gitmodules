@@ -11,3 +11,6 @@
 [submodule "RFishBC"]
 	path = RFishBC
 	url = https://github.com/fishr-core-team/rfishbc
+[submodule "rFAMS"]
+	path = rFAMS
+	url = https://github.com/fishr-core-team/rfams
